@@ -7,8 +7,8 @@ I am originally from Brazil. I now live in Canada. I am a former Forensic Office
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brugobi&hide=SCSS&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brugobi&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brugobi&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brugobi&repo=convoychat" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brugobi&hide=SCSS&layout=compact&theme=chartreuse-dark" />
 </a>
