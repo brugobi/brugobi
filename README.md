@@ -13,7 +13,7 @@ On my journey of learning development, I learned a set of technical and professi
 If you'd like to get in contact about potential job opportunities, please reach out! Feel free to contact me:
 
 Email: gobibruna@gmail.com
-Portfolio: https://hardcore-noyce-90aae7.netlify.app/
+Portfolio: https://brugobi.github.io/-Personal-Portfolio-JS/
 GitHub:https://github.com/brugobi  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
